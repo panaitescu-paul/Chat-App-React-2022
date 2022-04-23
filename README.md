@@ -7,6 +7,7 @@ The Chat App offers the opportunity to have conversations on the Web with multip
 - React.js
 - Typescript
 - Firestore
+- Styled-components
 - HTML, CSS
 
 
