@@ -12,8 +12,8 @@ The Chat App offers the opportunity to have conversations on the Web with multip
 
 
 ### Preview:
-![alt text](https://github.com/panaitescu-paul/Chat-App-React-2022/blob/master/screenshots/1.1.png)
-![alt text](https://github.com/panaitescu-paul/Chat-App-React-2022/blob/master/screenshots/2.1.png)
+![alt text](https://github.com/panaitescu-paul/Chat-App-React-2022/blob/master/screenshots/1.png)
+![alt text](https://github.com/panaitescu-paul/Chat-App-React-2022/blob/master/screenshots/2.png)
 ![alt text](https://github.com/panaitescu-paul/Chat-App-React-2022/blob/master/screenshots/3.png)
 
 
